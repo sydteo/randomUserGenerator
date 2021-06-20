@@ -7,7 +7,10 @@ This project was also done with the help of a Vue JS Crash Course tutorial by Tr
 
 
 
-https://user-images.githubusercontent.com/71167004/122674523-2b1fae80-d208-11eb-9252-f1453182781f.mp4
+
+https://user-images.githubusercontent.com/71167004/122674600-6d48f000-d208-11eb-934c-a9aef4c13c45.mov
+
+
 
 
 
