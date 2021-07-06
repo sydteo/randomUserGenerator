@@ -1,4 +1,4 @@
-# randomUserGenerator
+# RandomUserGenerator
 **What is this about?**
 - Random User Generator using Vuejs
 - This is a simple project to get you started on your first vue project
