@@ -12,7 +12,7 @@
 - Work on understanding of Composition API
 
 **Demo**
-https://user-images.githubusercontent.com/71167004/122674600-6d48f000-d208-11eb-934c-a9aef4c13c45.mov
+- https://user-images.githubusercontent.com/71167004/122674600-6d48f000-d208-11eb-934c-a9aef4c13c45.mov
 
 
 
